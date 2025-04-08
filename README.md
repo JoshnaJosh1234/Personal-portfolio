@@ -30,7 +30,8 @@ The portfolio contains the following sections:
 - **React (mentioned as a skill, can be added in future iterations)**
 
 ##Output
-![image](https://github.com/user-attachments/assets/f97d87ba-d37f-479a-93a0-4b8264b0694e)
+![image](https://github.com/user-attachments/assets/babd216e-eb16-4b14-885c-a8aa6d7cfc14)
+
 
 
 
