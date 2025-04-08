@@ -14,7 +14,8 @@ This is a **personal portfolio website** designed to showcase your skills, proje
 - **JavaScript** - Enhancing interactivity.
 
 ##Output
-![image](https://github.com/user-attachments/assets/f03cfa73-3aa9-4a06-860e-c6d4139c87b3)
+![image](https://github.com/user-attachments/assets/8643f458-7439-419c-8a8c-0b5b9bf60549)
+
 
 
 ## How to Run
