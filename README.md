@@ -1,20 +1,37 @@
-# Personal-portfolio
+# Personal Portfolio Website
 
-## Overview
+This is a personal portfolio website designed to showcase my web development skills, educational background, and projects. Built using **HTML**, **CSS**, and **JavaScript**, it is responsive and simple, with a clean UI for easy navigation.
+
+## 🔍 Overview
 This is a **personal portfolio website** designed to showcase your skills, projects, and resume. Built using **HTML, CSS, and JavaScript**, it provides a professional way to present your work and connect with potential employers or clients.
 
-## Features
-- **About Section** - Details about your background and skills.
-- **Projects Section** - Showcases projects like a basic calculator and a blood donation website.
-- **Contact Section** - Provides ways to reach out via email or social media links.
+The portfolio contains the following sections:
 
-## Technologies Used
-- **HTML** - Structure of the website.
-- **CSS** - Styling with vibrant colors and animations.
-- **JavaScript** - Enhancing interactivity.
+- **About Me**: Brief introduction and career objective.
+- **Skills**: A display of core technical skills such as HTML, CSS, JavaScript, React, Git, GitHub, and SQL Basics.
+- **Education**: Academic background including degree, institution, and years of study.
+- **Projects**: Descriptions and links to live projects, such as:
+  - Basic Calculator
+  - Blood Donation Website
+- **Contact**: Contact information including email, phone, and location.
+
+## 💡 Features
+
+- Fully responsive design
+- Simple and clean UI
+- HTML/CSS styled sections with consistent layout
+- Project links open in new tabs
+
+## 🛠️ Technologies Used
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **React (mentioned as a skill, can be added in future iterations)**
 
 ##Output
-![image](https://github.com/user-attachments/assets/8643f458-7439-419c-8a8c-0b5b9bf60549)
+![image](https://github.com/user-attachments/assets/f97d87ba-d37f-479a-93a0-4b8264b0694e)
+
 
 
 
